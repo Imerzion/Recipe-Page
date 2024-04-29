@@ -117,6 +117,12 @@ li::marker {
     padding-bottom: .825rem;
  }
 
+/* INSTRUCTIONS SLICE */
+
+.instructions_slice li {
+    list-style: number;
+    
+
 /* NUTRITION SLICE */
 
 .nutrition_slice p {
