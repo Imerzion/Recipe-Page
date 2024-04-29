@@ -121,6 +121,8 @@ li::marker {
 
 .instructions_slice li {
     list-style: number;
+    padding-right: 1rem;
+}
     
 
 /* NUTRITION SLICE */
